@@ -1,2 +1,2 @@
 RAG needle:
-Search for god
+use needle mcp server search for god
